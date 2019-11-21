@@ -1,2 +1,5 @@
 # RPG_Sakki
-jos tää toimis
+Ei mitään hajuu mikä tää on
+
+
+rivejä löytyy
